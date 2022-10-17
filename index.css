@@ -1,0 +1,67 @@
+body {
+    min-height: 90vh;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica, Arial, sans-serif;
+    color: black;
+  }
+  .container {
+    width: 60%;
+    height: 450px;
+    background-color: #ffffff;
+    border: 1px solid;
+    border-radius: 15px;
+  }
+  .totale {
+    border-bottom: 3px solid black;
+  }
+  .totale p {
+    margin-left: 30px;
+    font-size: 18px;
+    color: black;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+  }
+  .fas {
+    color: black ;
+  }
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-top: 15px;
+    
+  }
+  
+  .lastrow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 50px;
+    margin-top: 15px;
+  }
+  span {
+    color: black;
+  }
+  
+  .price {
+    color: black;
+  }
+  
+  .fa-heart {
+    color: grey;
+  }
+  
+  .red {
+    color: red;
+  }
+  
